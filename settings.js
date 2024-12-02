@@ -1,4 +1,4 @@
-//Created by Danny 
+//Created by MNET
 //Dont clone cause if i catch you i will flag you immediately 
 //contact me wa.me/254726544530
 
@@ -26,7 +26,7 @@ global.autoswview = true //auto view status/story
 global.antilinkMode = true; // Default: disabled
 global.autostatusReact = true; // Default: disabled
 global.reactEmoji = '👌'; // Default reaction emoji
-//Thank you for using 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏
+//Thank you for using CHEBOI_𝓜𝓓-𝓥𝟏
 //suppoet us by following our official channel
 //https://chat.whatsapp.com/EgyGK7Keik2JiqJE6ASrVp
 //𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 MNET
