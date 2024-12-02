@@ -1,7 +1,7 @@
-//created by Danny
-//wa.me/255697608274
+//created by Cheboi
+//wa.me/254726544530
 //Deploy and enjoy
-//Credits (Creepy technology)
+//Credits (Mnet technology)
 //Follow our channel https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r
 
 
